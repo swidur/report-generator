@@ -1,0 +1,11 @@
+{
+  "report": {
+    "title" : "Title can by styled by .repo-title class",
+    "database": "",
+    "sql": "Your sql select query",
+    "headers": ["Coma separated list of column names in order of selecting"],
+    "style": "Path to stylesheet or word default",
+    "pdfPassword": "not implemented",
+    "rowNumbering": true
+  }
+}
